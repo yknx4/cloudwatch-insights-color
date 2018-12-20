@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "cloudwatch insights colors",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "cloudwatch_colors",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Parse color codes from logs in Amazon Cloudwatch Insights",
+    "description": "The description of the application"
+  }
+}

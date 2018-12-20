@@ -1,0 +1,26 @@
+{
+  "name": "cloudwatch-insights-colors",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Ale Figueroa",
+    "email": "me@ale.world",
+    "url": "https://github.com/yknx4"
+  },
+  "description": "Parse color codes from logs in Amazon Cloudwatch Insights",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/yknx4/cloudwatch-insights-color.git"
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.6.9",
+    "arrive": "^2.4.1"
+  }
+}
